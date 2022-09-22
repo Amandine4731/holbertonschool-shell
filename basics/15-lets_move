@@ -1,2 +1,2 @@
 #!/bin/bash
-mv -la /*[A-B] /tmp/u
+mv -la /[[:upper:]]* /tmp/u
