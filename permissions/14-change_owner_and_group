@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent * chgrp group staff *
+chown vincent *;chgrp group staff *
