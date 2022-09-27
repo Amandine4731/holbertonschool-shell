@@ -1,2 +1,2 @@
 #!/bin/bash
-find -aR -type d -empty > .
+find . -name ".*" -type d -empty
