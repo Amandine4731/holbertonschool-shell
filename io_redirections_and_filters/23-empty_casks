@@ -1,2 +1,2 @@
 #!/bin/bash
-find -R -name "." -empty -type f-d
+find -R -type d -empty -name "."
