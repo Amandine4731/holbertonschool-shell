@@ -1,3 +1,2 @@
 #!/bin/bash
-find .
 ls -tl | head -10
