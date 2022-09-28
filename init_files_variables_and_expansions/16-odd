@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "/" '\n' | paste -d "  "
+tr "/" '\n' | paste -d "odd"
