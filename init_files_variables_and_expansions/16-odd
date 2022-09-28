@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "/" '\n' | paste -d "odd"
+cut -d " " -f 1 state | paste "odd number"
