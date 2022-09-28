@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "the average is $((128 + $TRUEKNOWLEDGE))"
+echo $(( 128 + $TRUEKNOWLEDGE ))
